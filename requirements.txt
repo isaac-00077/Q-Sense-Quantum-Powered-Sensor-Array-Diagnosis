@@ -1,0 +1,8 @@
+# Bernstein-Vazirani Project Dependencies
+
+qiskit
+qiskit-aer
+streamlit
+matplotlib
+numpy
+pylatexenc
